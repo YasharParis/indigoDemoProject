@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yashar Indigo Test" duration-ms="42016" started-at="2020-03-10T04:38:23Z" finished-at="2020-03-10T04:39:05Z">
+    <groups>
+    </groups>
+    <test name="SignIn Feature Test" duration-ms="42016" started-at="2020-03-10T04:38:23Z" finished-at="2020-03-10T04:39:05Z">
+      <class name="testCase.sysE2E.SignInFeature">
+        <test-method status="PASS" signature="beforeAllTestCase()[pri:0, instance:[SignInFeature passed=0 failed=0 skipped=0]]" name="beforeAllTestCase" is-config="true" duration-ms="232" started-at="2020-03-10T04:38:23Z" finished-at="2020-03-10T04:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestCase -->
+        <test-method status="PASS" signature="beforeEachTestCase(java.lang.String)[pri:0, instance:[SignInFeature passed=0 failed=0 skipped=0]]" name="beforeEachTestCase" is-config="true" duration-ms="3453" started-at="2020-03-10T04:38:23Z" finished-at="2020-03-10T04:38:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method status="PASS" signature="signIn_CorretInfo()[pri:0, instance:[SignInFeature passed=0 failed=0 skipped=0]]" name="signIn_CorretInfo" duration-ms="37471" started-at="2020-03-10T04:38:26Z" finished-at="2020-03-10T04:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn_CorretInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[SignInFeature passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="321" started-at="2020-03-10T04:39:04Z" finished-at="2020-03-10T04:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterAllTestCase()[pri:0, instance:[SignInFeature passed=0 failed=0 skipped=0]]" name="afterAllTestCase" is-config="true" duration-ms="503" started-at="2020-03-10T04:39:04Z" finished-at="2020-03-10T04:39:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCase -->
+      </class> <!-- testCase.sysE2E.SignInFeature -->
+    </test> <!-- SignIn Feature Test -->
+  </suite> <!-- Yashar Indigo Test -->
+</testng-results>

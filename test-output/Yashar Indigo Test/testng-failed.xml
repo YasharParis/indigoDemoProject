@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Yashar Indigo Test]">
+  <listeners>
+    <listener class-name="utilities.reportRelated.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="SignIn Feature Test(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testCase.sysE2E.SignInFeature">
+        <methods>
+          <include name="afterAllTestCase"/>
+          <include name="beforeAllTestCase"/>
+          <include name="beforeEachTestCase"/>
+          <include name="tearDown"/>
+          <include name="signIn_CorretInfo"/>
+        </methods>
+      </class> <!-- testCase.sysE2E.SignInFeature -->
+    </classes>
+  </test> <!-- SignIn Feature Test(failed) -->
+</suite> <!-- Failed suite [Yashar Indigo Test] -->

@@ -1,0 +1,45 @@
+[INFO ] 2020-03-09 02:08:22.651 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-03-09 02:08:22.663 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-09 02:08:28.417 [main] Log4jManager - we get the web
+[INFO ] 2020-03-09 02:08:30.631 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-03-10 00:05:08.330 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-03-10 00:05:08.347 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:05:14.169 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:05:16.213 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-03-10 00:14:46.833 [main] Log4jManager - Successfully Initiated Chrome Driver in private mode
+[INFO ] 2020-03-10 00:14:46.850 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:14:52.545 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:14:56.772 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[ERROR] 2020-03-10 00:15:57.191 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2020-03-10 00:15:57.219 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-03-10 00:21:13.606 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-03-10 00:21:13.621 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:21:19.234 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:21:23.649 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[ERROR] 2020-03-10 00:22:24.193 [main] Log4jManager - Wait Error: element was not visible after 60 seconds.
+[INFO ] 2020-03-10 00:22:24.251 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Failed
+[INFO ] 2020-03-10 00:31:01.791 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-03-10 00:31:01.807 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:31:07.209 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:31:11.633 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[INFO ] 2020-03-10 00:31:31.446 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-03-10 00:33:30.018 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-03-10 00:33:30.031 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:33:34.310 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:33:38.747 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[INFO ] 2020-03-10 00:34:01.672 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-03-10 00:37:36.091 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-03-10 00:37:36.102 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:37:40.140 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:37:44.571 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[INFO ] 2020-03-10 00:38:05.946 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-03-10 00:38:26.714 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-03-10 00:38:26.723 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:38:31.056 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:38:35.492 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[INFO ] 2020-03-10 00:39:04.193 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Passed
+[INFO ] 2020-03-10 00:44:58.184 [main] Log4jManager - Successfully Initiated Chrome Driver
+[INFO ] 2020-03-10 00:44:58.194 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Started
+[INFO ] 2020-03-10 00:45:02.549 [main] Log4jManager - we get the web
+[INFO ] 2020-03-10 00:45:06.836 [main] Log4jManager - Filled in Sign in section inofrmation from input 
+[INFO ] 2020-03-10 00:45:33.773 [main] Log4jManager - Test Case: signIn_CorretInfo on [SignInFeature passed=0 failed=0 skipped=0] Passed

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+
+<suite name="Yashar Indigo Test"  parallel = "none">
+
+
+	<test name="SignIn Feature Test">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="testCase.sysE2E.SignInFeature" />
+		</classes>
+	</test> <!-- Indigo test -->
+
+
+
+
+
+	<!-- Test listener -->
+	<listeners>
+		<listener class-name="utilities.reportRelated.TestListener" />
+	</listeners>
+
+
+
+
+
+
+
+</suite>
